@@ -128,8 +128,8 @@ body::before {
 .app-showcase {
     max-width: 1000px;
     margin: 0 auto;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    display: flex;
+    flex-direction: column;
     gap: 24px;
 }
 
@@ -251,9 +251,6 @@ body::before {
 
 /* Responsive */
 @media (max-width: 800px) {
-    .app-showcase {
-        grid-template-columns: 1fr;
-    }
 
     .app-card {
         flex-direction: column;
