@@ -128,6 +128,9 @@ body::before {
 .app-showcase {
     max-width: 1000px;
     margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
 }
 
 .fade-in {
@@ -247,7 +250,11 @@ body::before {
 }
 
 /* Responsive */
-@media (max-width: 600px) {
+@media (max-width: 800px) {
+    .app-showcase {
+        grid-template-columns: 1fr;
+    }
+
     .app-card {
         flex-direction: column;
         align-items: center;
