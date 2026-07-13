@@ -1,0 +1,86 @@
+[
+  {
+    "app_id": "hookahmap",
+    "name": "HookahMap",
+    "icon_url": "https://raw.githubusercontent.com/u-demiroz/TulparaWeb/main/icons/hookahmap.png",
+    "ios_store_link": "https://apps.apple.com/tr/app/hookahmap/id6760507169",
+    "android_store_link": "https://play.google.com/store/apps/details?id=com.ugurdemiroz.hookahmap",
+    "active": true,
+    "description": {
+      "tr": "Dünyanın dört bir yanındaki en iyi nargile mekanlarını keşfedin.",
+      "en": "Discover the best hookah lounges worldwide.",
+      "ru": "Откройте для себя лучшие кальянные по всему миру.",
+      "ar": "اكتشف أفضل صالات الشيشة في جميع أنحاء العالم."
+    }
+  },
+  {
+    "app_id": "after_text",
+    "name": "After Text",
+    "icon_url": "https://raw.githubusercontent.com/u-demiroz/TulparaWeb/main/icons/after_text.png",
+    "ios_store_link": "https://apps.apple.com/tr/app/after-text-chat-analyzer/id6767917062",
+    "android_store_link": "https://play.google.com/store/apps/details?id=com.antigravity.aftertext",
+    "active": true,
+    "description": {
+      "tr": "Mesajlarınızı ve metinlerinizi akıllıca yönetin.",
+      "en": "Manage your messages and texts smartly.",
+      "ru": "Управляйте своими сообщениями и текстами с умом.",
+      "es": "Gestione sus mensajes y textos de forma inteligente."
+    }
+  },
+  {
+    "app_id": "trivair",
+    "name": "TrivAir",
+    "icon_url": "https://raw.githubusercontent.com/u-demiroz/TulparaWeb/main/icons/trivair.png",
+    "ios_store_link": "https://apps.apple.com/tr/app/trivair/id6761112939",
+    "android_store_link": "https://play.google.com/store/apps/details?id=com.trivair.app",
+    "active": true,
+    "description": {
+      "tr": "Havacılık tutkunları için eğlenceli ve öğretici bir deneyim.",
+      "en": "A fun and educational experience for aviation enthusiasts.",
+      "ru": "Увлекательный и познавательный опыт для любителей авиации.",
+      "es": "Una experiencia divertida y educativa para los entusiastas de la aviación."
+    }
+  },
+  {
+    "app_id": "sonus_notes",
+    "name": "Sonus Notes",
+    "icon_url": "https://raw.githubusercontent.com/u-demiroz/TulparaWeb/main/icons/sonus_notes.png",
+    "ios_store_link": "https://apps.apple.com/tr/app/sonusnotes/id6764329742",
+    "android_store_link": "https://play.google.com/store/apps/details?id=com.ugurdemiroz.sonusnotes",
+    "active": true,
+    "description": {
+      "tr": "Sesli notlarınızı hızlıca kaydedin ve düzenli tutun.",
+      "en": "Quickly record your voice notes and keep them organized.",
+      "ru": "Быстро записывайте свои голосовые заметки и держите их в порядке.",
+      "es": "Graba rápidamente tus notas de voz y mantenlas organizadas."
+    }
+  },
+  {
+    "app_id": "roam",
+    "name": "Roam Map",
+    "icon_url": "https://raw.githubusercontent.com/u-demiroz/TulparaWeb/main/icons/roam.png",
+    "ios_store_link": "https://apps.apple.com/tr/app/roam-map/id6761302186",
+    "android_store_link": "https://play.google.com/store/apps/details?id=com.ugurdemiroz.roammap",
+    "active": true,
+    "description": {
+      "tr": "Seyahatlerinizi planlayın ve gizli kalmış noktaları haritalayın.",
+      "en": "Plan your travels and map out hidden spots.",
+      "ru": "Планируйте свои путешествия и отмечайте на карте скрытые места.",
+      "es": "Planifica tus viajes y mapea lugares ocultos."
+    }
+  },
+  {
+    "app_id": "aero_comply",
+    "name": "Aero Comply",
+    "icon_url": "https://raw.githubusercontent.com/u-demiroz/TulparaWeb/main/icons/aero_comply.png",
+    "ios_store_link": "",
+    "android_store_link": "",
+    "active": true,
+    "description": {
+      "tr": "Uçuş ve havacılık uyumluluk süreçlerinizi profesyonelce yönetin. (Çok Yakında!)",
+      "en": "Professionally manage your flight and aviation compliance processes. (Coming Soon!)",
+      "ru": "Профессионально управляйте процессами соблюдения нормативных требований в авиации. (Скоро!)",
+      "es": "Gestione profesionalmente sus procesos de cumplimiento de vuelos y aviación. (¡Próximamente!)"
+    }
+  }
+]
