@@ -2,7 +2,7 @@
   {
     "app_id": "hookahmap",
     "name": "HookahMap",
-    "icon_url": "https://raw.githubusercontent.com/u-demiroz/TulparaWeb/main/icons/hookahmap.png",
+    "icon_url": "https://tulpara.com/icons/hookahmap.png",
     "ios_store_link": "https://apps.apple.com/tr/app/hookahmap/id6760507169",
     "android_store_link": "https://play.google.com/store/apps/details?id=com.ugurdemiroz.hookahmap",
     "active": true,
@@ -16,7 +16,7 @@
   {
     "app_id": "after_text",
     "name": "After Text",
-    "icon_url": "https://raw.githubusercontent.com/u-demiroz/TulparaWeb/main/icons/after_text.png",
+    "icon_url": "https://tulpara.com/icons/after_text.png",
     "ios_store_link": "https://apps.apple.com/tr/app/after-text-chat-analyzer/id6767917062",
     "android_store_link": "https://play.google.com/store/apps/details?id=com.antigravity.aftertext",
     "active": true,
@@ -30,7 +30,7 @@
   {
     "app_id": "trivair",
     "name": "TrivAir",
-    "icon_url": "https://raw.githubusercontent.com/u-demiroz/TulparaWeb/main/icons/trivair.png",
+    "icon_url": "https://tulpara.com/icons/trivair.png",
     "ios_store_link": "https://apps.apple.com/tr/app/trivair/id6761112939",
     "android_store_link": "https://play.google.com/store/apps/details?id=com.trivair.app",
     "active": true,
@@ -44,7 +44,7 @@
   {
     "app_id": "sonus_notes",
     "name": "Sonus Notes",
-    "icon_url": "https://raw.githubusercontent.com/u-demiroz/TulparaWeb/main/icons/sonus_notes.png",
+    "icon_url": "https://tulpara.com/icons/sonus_notes.png",
     "ios_store_link": "https://apps.apple.com/tr/app/sonusnotes/id6764329742",
     "android_store_link": "https://play.google.com/store/apps/details?id=com.ugurdemiroz.sonusnotes",
     "active": true,
@@ -58,7 +58,7 @@
   {
     "app_id": "roam",
     "name": "Roam Map",
-    "icon_url": "https://raw.githubusercontent.com/u-demiroz/TulparaWeb/main/icons/roam.png",
+    "icon_url": "https://tulpara.com/icons/roam.png",
     "ios_store_link": "https://apps.apple.com/tr/app/roam-map/id6761302186",
     "android_store_link": "https://play.google.com/store/apps/details?id=com.ugurdemiroz.roammap",
     "active": true,
@@ -72,7 +72,7 @@
   {
     "app_id": "aero_comply",
     "name": "Aero Comply",
-    "icon_url": "https://raw.githubusercontent.com/u-demiroz/TulparaWeb/main/icons/aero_comply.png",
+    "icon_url": "https://tulpara.com/icons/aero_comply.png",
     "ios_store_link": "",
     "android_store_link": "",
     "active": true,
